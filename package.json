@@ -1,0 +1,27 @@
+{
+  "name": "node_zsj_service",
+  "version": "1.0.0",
+  "description": "This is a quickstart for using zsj webservice via node-soap",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudonghua123/node_zsj_service.git"
+  },
+  "keywords": [
+    "zsj",
+    "node-soap",
+    "quickstart"
+  ],
+  "author": "liudonghua123@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/liudonghua123/node_zsj_service/issues"
+  },
+  "homepage": "https://github.com/liudonghua123/node_zsj_service#readme",
+  "dependencies": {
+    "soap": "^0.17.0"
+  }
+}
